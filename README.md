@@ -40,7 +40,7 @@ GEO 信息格式：
 
 ```bash
 # clone 此项目
-git clone https://github.com/ccbikai/ip-api.git
+git clone https://github.com/miantiao-me/ip-api.git
 
 # 进入项目目录
 cd ip-api
@@ -67,7 +67,3 @@ Cloudflare 支持 IPv4 和 IPv6 访问，如果想只支持单栈，可以只解
 
 比如: <https://cloudflare-ip-v4.html.zone/> 和 <http://cloudflare-ip-v6.html.zone/>
 
-## 问题反馈
-
-1. 提 Issue / Pull Request
-2. 联系 <https://twitter.com/ccbikai>
